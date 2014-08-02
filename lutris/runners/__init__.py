@@ -8,14 +8,14 @@ __all__ = (
     "wine", "winesteam", "dosbox",
     # Multi-system
     "sdlmame", "sdlmess", "scummvm", "mednafen",
-    # Commdore
+    # Commodore
     "fsuae", "vice",
     # Atari
     "stella", "atari800", "hatari", "virtualjaguar",
     # Nintendo
     "snes9x",  "mupen64plus",  # "dolphin",
     # Sony
-    "pcsxr",
+    "pcsxr", "pcsx2",
     # Sega
     "osmose", "gens", "nulldc",
     # Misc legacy systems
